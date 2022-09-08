@@ -37,16 +37,15 @@ Using Epson V750 Pro flatbed scanner at 2400dpi, scanned "lrg" size fraction onl
 Images data are on https://ecotaxa.obs-vlfr.fr/prj/3346 and were sorted into taxonomic categories. Using the export file (.tsv; has to be downloaded locally into the forked repos; too large file size for github), individual biomass can be calculated from image area and taxonomic identity. Abundance and biomass are then aggregated to concentrations (per volume) or integrals (per area).
 
 
-![](./total_biomass_bubble.png)
-Figure 2. Total integrated biomass. Note large differences between the two cruises as well as super low total biomass. Check metadata (in particular sample_volconc).
-
-![](./biomass_pie.png)
-Figure 3. Pie chart of biomass contribution of major groups.
-
+![](./total_abundance_bubble.png)
+Figure 2. Total abundance as total number of individual per m^3 shown at the geographical location of their station per sampling depth and cruise.
 
 ![](./abundance_pie.png)
-Figure 4. Pie chart of abundance contribution of major groups.
+Figure 3. Pie chart of abundance contribution of major groups (factions >5%) shown at the geographical location of their station per sampling depth and cruise. Objects that overlapped were catergorized as multiple and excluded from analysis. Fraction "Other" contains: Appendicularia, Bryozoam Cephalopoda, Gastropoda, Leptocardii, eggs and larvae (unspecified).
 
-![](./Chaetognatha_histogram.png)
 
-Figure 4. Example of a size distribution of a taxonomic group -- here chaetognaths.
+![](./abundance_barplot.png)
+Figure 4. Stacked bar plot of abundance contribution of major mesozooplankton groups for each station and depth.
+
+
+
