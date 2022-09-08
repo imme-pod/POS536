@@ -40,12 +40,13 @@ Images data are on https://ecotaxa.obs-vlfr.fr/prj/3346 and were sorted into tax
 ![](./total_abundance_bubble.png)
 Figure 2. Total abundance as total number of individual per m^3 shown at the geographical location of their station per sampling depth and cruise.
 
-![](./abundance_pie.png)
+![abundance_pie](https://user-images.githubusercontent.com/111972576/189148420-78dfae5d-0ebc-4ee2-88d2-276fe1c207a0.png)
 Figure 3. Pie chart of abundance contribution of major groups (factions >5%) shown at the geographical location of their station per sampling depth and cruise. Objects that overlapped were catergorized as multiple and excluded from analysis. Fraction "Other" contains: Appendicularia, Bryozoam Cephalopoda, Gastropoda, Leptocardii, eggs and larvae (unspecified).
 
 
 ![](./abundance_barplot.png)
 Figure 4. Stacked bar plot of abundance contribution of major mesozooplankton groups for each station and depth.
+
 
 
 
